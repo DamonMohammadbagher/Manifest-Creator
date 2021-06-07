@@ -6,6 +6,8 @@ Note: in the XML report you can have these information => (CPU,BIOS,MOTHERBOARD,
 
 Note: for connect to Remote Systems in Domain, you should have (Domain Admin User) or you should have "same" Local Admin User/Pwd in all systems ";D"!
 
+Tested on (WinXP,Win Server 2003,Win7).
+
 ![](https://github.com/DamonMohammadbagher/Manifest-Creator/blob/main/ManifestCreator.png)
 ---------------
 <p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/Manifest-Creator"/></a></p>
